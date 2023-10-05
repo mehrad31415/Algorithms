@@ -21,10 +21,6 @@ The experiments involve executing each algorithm 5000 times, with the elapsed ti
 3. For each execution, the time taken to sort the array is measured.
 4. The average of the ten measurements is calculated, representing the ultimate recorded time for sorting using the specified algorithm.
 
-## Big-Oh Notation
-
-The Big-Oh notation for the sorting algorithms is also provided.
-
 ## Experiments
 
 ### Experiment 1
